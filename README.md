@@ -1,2 +1,1 @@
-# CodeThatWritesCode
-CodeThatWritesCodeThatWritesCodeThatWritesCodeThatWritesCodeThatWritesCode
+# Code That Writes Code
